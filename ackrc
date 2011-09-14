@@ -1,1 +1,1 @@
---ignore-dir=vendor
+--ignore-dir=vendor --type-set=haml=.haml
