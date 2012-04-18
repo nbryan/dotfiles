@@ -1,0 +1,5 @@
+fontName = "Andale Mono"
+fontSize = 14
+softTabs = true
+tabSize = 2
+include = "{.gitignore,.rspec,.powder}"

@@ -1,2 +1,2 @@
 --ignore-dir=vendor
---type-set=haml=.haml
+--type-add=ruby=.haml,.rake
