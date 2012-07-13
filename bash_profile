@@ -1,4 +1,5 @@
-#PATH=$HOME/.homebrew/bin:$PATH:/usr/local/mysql/bin
+# PostgreSQL
+PATH="/usr/local/bin:$PATH"
 
 # rbenv
 PATH="$HOME/.rbenv/bin:$PATH"
