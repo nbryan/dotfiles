@@ -1,8 +1,8 @@
 # PostgreSQL
-PATH="/usr/local/bin:$PATH"
+export PATH="/usr/local/bin:$PATH"
 
 # rbenv
-PATH="$HOME/.rbenv/bin:$PATH"
+export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 
 # TextMate
