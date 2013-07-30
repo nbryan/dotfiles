@@ -1,4 +1,5 @@
 --ignore-dir=vendor
+--ignore-dir=.jhw-cache
 --type-add=ruby=.haml,.rake
 --type-add=css=.sass,.scss
 --type-add=js=.coffee,.hamlc
