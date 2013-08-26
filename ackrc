@@ -1,4 +1,5 @@
 --ignore-dir=vendor
+--ignore-dir=source_maps
 --ignore-dir=.jhw-cache
 --type-add=ruby=.haml,.rake
 --type-add=css=.sass,.scss
