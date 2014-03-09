@@ -27,3 +27,5 @@
 [user]
   name = Nathan Bryan
   email = nathan.bryan@gmail.com
+[push]
+	default = simple
