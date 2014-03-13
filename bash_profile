@@ -5,6 +5,9 @@
 #export PATH="$HOME/.rbenv/bin:$PATH"
 #eval "$(rbenv init -)"
 
+# Heroku
+export PATH="/usr/local/heroku/bin:$PATH"
+
 # TextMate
 export EDITOR="mate -w"
 
