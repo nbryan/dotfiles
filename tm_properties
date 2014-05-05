@@ -2,4 +2,4 @@ fontName = "Source Code Pro"
 fontSize = 14
 softTabs = true
 tabSize = 2
-include = "{*,.gitignore,.rspec,.powder,.rvmrc,.rbenv-version,.ruby-version}"
+include = "{*,.gitignore,.gitattributes,.rspec,.powder,.rvmrc,.rbenv-version,.ruby-version}"
