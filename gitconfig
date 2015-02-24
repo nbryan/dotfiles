@@ -29,3 +29,5 @@
   email = nathan.bryan@gmail.com
 [push]
 	default = simple
+[core]
+	excludesfile = ~/.gitignore
