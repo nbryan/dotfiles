@@ -6,8 +6,5 @@ GIT_PS1_SHOWUNTRACKEDFILES=true
 source ~/.git-completion.bash
 export PS1='$(__git_ps1 "[%s] ")\w> '
 
-# Heroku
-export PATH="/usr/local/heroku/bin:$PATH"
-
 # TextMate
-export EDITOR="mate -w"
+export EDITOR="subl -n -w"
