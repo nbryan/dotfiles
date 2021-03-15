@@ -1,5 +1,0 @@
-fontName = "Source Code Pro"
-fontSize = 14
-softTabs = true
-tabSize = 2
-include = "{*,.gitignore,.gitattributes,.rspec,.powder,.rvmrc,.rbenv-version,.ruby-version}"
