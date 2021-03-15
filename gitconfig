@@ -25,7 +25,8 @@
   untracked = cyan
 
 [core]
-	excludesfile = ~/.gitignore
+  editor = code --wait
+  excludesfile = ~/.gitignore
 
 [user]
   name = Nathan Bryan
