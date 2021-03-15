@@ -1,3 +1,8 @@
+[alias]
+  st = status
+  br = branch
+  co = checkout
+
 [color]
   branch = auto
   diff = auto
@@ -19,15 +24,9 @@
   changed = green
   untracked = cyan
 
-[alias]
-  st = status
-  br = branch
-  co = checkout
-  
-[user]
-  name = Nathan Bryan
-  email = nathan.bryan@gmail.com
-[push]
-	default = simple
 [core]
 	excludesfile = ~/.gitignore
+
+[user]
+  name = Nathan Bryan
+  email = nathan@havenlife.com
